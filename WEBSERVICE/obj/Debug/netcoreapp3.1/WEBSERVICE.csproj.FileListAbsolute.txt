@@ -1,0 +1,13 @@
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.exe
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.deps.json
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.runtimeconfig.json
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.runtimeconfig.dev.json
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.dll
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\bin\Debug\netcoreapp3.1\WEBSERVICE.pdb
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.csprojAssemblyReference.cache
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.AssemblyInfoInputs.cache
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.AssemblyInfo.cs
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.dll
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.pdb
+C:\Users\sam0_\source\repos\WEBSERVICE\WEBSERVICE\obj\Debug\netcoreapp3.1\WEBSERVICE.genruntimeconfig.cache
